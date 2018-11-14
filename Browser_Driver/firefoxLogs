@@ -1,0 +1,10 @@
+1541142490606	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/yb/t94yk5zd3yb580b2dc9b2w440000gs/T/rust_mozprofile.wQsDQDpuOUHl"
+1541142497113	Marionette	INFO	Listening on port 64324
+1541142497185	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cms.event2mobile.com/?AspxAutoDetectCookieSupport=1, line 1: unreachable code after return statement
+JavaScript warning: https://cms.event2mobile.com/overview.aspx, line 823: unreachable code after return statement
+JavaScript warning: https://cms.event2mobile.com/overview.aspx, line 823: unreachable code after return statement
+JavaScript warning: https://cms.event2mobile.com/overview.aspx, line 823: unreachable code after return statement
+JavaScript warning: https://cms.event2mobile.com/overview.aspx, line 823: unreachable code after return statement
+JavaScript warning: https://cms.event2mobile.com/overview.aspx, line 823: unreachable code after return statement
+JavaScript warning: https://cms.event2mobile.com/overview.aspx, line 823: unreachable code after return statement
